@@ -1,0 +1,7 @@
+dto\ProductDTO.class
+dto\ErrorDTO.class
+dto\UserDTO.class
+dto\CategoryDTO.class
+dto\ShopDTO.class
+dto\ShopReportDTO.class
+dto\ItemDTO.class
